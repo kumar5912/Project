@@ -1,0 +1,9 @@
+ Shell scripts are short programs that are written in a shell programming language and interpreted by a shell process. They are extremely useful for automating tasks on Linux and other Unix-like operating systems.
+
+A shell is a program that provides the traditional, text-only user interface for Unix-like operating systems. Its primary function is to read commands (i.e., instructions) that are typed into a console (i.e., an all-text display mode) or terminal window (i.e., all-text mode window) and then execute (i.e., run) them. The default shell on Linux is the very commonly used and highly versatile bash.
+
+A programming language is a precise, artificial language that is used to write computer programs, which are sets of instructions that can be automatically translated (i.e., interpreted or compiled) into a form (i.e., machine language) that is directly understandable by a computer's central processing unit (CPU).
+
+A feature of bash and other shells used on Unix-like operating systems is that each contains a built-in programming language, referred to as a shell programming language or shell scripting language, which is used to create shell scripts. Among the advantages of using shell scripts are that they can be very easy to create and that a large number are already available in books and on the Internet for use with or without modification for a wide variety of tasks. Shell scripts are also employed extensively in the default installations of Unix-like operating systems. 
+kumar
+gopi\
